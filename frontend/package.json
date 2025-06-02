@@ -20,7 +20,7 @@
     "react-scripts": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-testkit": "^1.0.6",
-    "start-server-and-test": "^1.12.5"
+    "start-server-and-test": "^2.0.3"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
