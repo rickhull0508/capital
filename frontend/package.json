@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "@cypress/code-coverage": "^3.9.6",
+    "@cypress/code-coverage": "^4.0.0",
     "@cypress/instrument-cra": "^1.4.0",
     "@testing-library/cypress": "^7.0.6",
     "@testing-library/jest-dom": "^5.14.1",
@@ -20,7 +20,7 @@
     "react-scripts": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-testkit": "^1.0.6",
-    "start-server-and-test": "^1.12.5"
+    "start-server-and-test": "^2.0.3"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
